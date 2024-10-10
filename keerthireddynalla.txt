@@ -1,3 +1,4 @@
 Name: Keerthi Reddy Nall 
 Father Name: Nalla Narsimha Reddy 
 Reg No:12218570
+Specialization: Data Science
